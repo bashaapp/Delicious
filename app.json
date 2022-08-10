@@ -1,0 +1,12 @@
+{
+  "name": "Delicious",
+  "displayName": "Delicious",
+  "expo": {
+    "name": "Delicious",
+    "slug": "Delicious",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
